@@ -1,2 +1,2 @@
-# week2
-bài tuần 2 
+# rn_project
+ 
